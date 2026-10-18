@@ -1,0 +1,66 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e9]:
+      - generic [ref=e10]: 达人种草执行平台
+      - generic [ref=e11]: KOL Execution Console · AI 审稿工作台
+    - generic [ref=e12]:
+      - button "新建项目" [ref=e13] [cursor=pointer]
+      - button "使用引导" [ref=e17] [cursor=pointer]
+      - button "重置演示" [ref=e20] [cursor=pointer]
+  - generic [ref=e26]:
+    - complementary [ref=e27]:
+      - generic [ref=e28]: 工作台
+      - generic [ref=e29] [cursor=pointer]:
+        - generic [ref=e35]: 全部项目
+        - emphasis [ref=e36]: "1"
+      - generic [ref=e37] [cursor=pointer]: 发布日历
+      - generic [ref=e42]: 项目列表
+      - generic [ref=e43]:
+        - generic [ref=e44] [cursor=pointer]:
+          - generic [ref=e45]:
+            - generic [ref=e46]: 植
+            - generic "植愈精华 · 618 达人种草" [ref=e47]
+          - generic [ref=e48]:
+            - generic [ref=e49]: 植愈 PURELY
+            - generic [ref=e50]: 4 待复核
+          - generic [ref=e51]: 8 位达人 · 更新于 刚刚
+        - generic [ref=e52] [cursor=pointer]: 新建项目
+    - main [ref=e56]:
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - generic [ref=e59]:
+            - heading "项目总览" [level=1] [ref=e60]
+            - generic [ref=e61]: 管理品牌种草项目，AI 贯穿「选题 → 审稿 → 定稿发布」全流程
+          - generic [ref=e62]:
+            - textbox "搜索项目 / 品牌 / 品类" [ref=e67]
+            - button "新建种草项目" [ref=e68] [cursor=pointer]
+        - generic [ref=e71]:
+          - generic [ref=e72]:
+            - generic [ref=e73]: "1"
+            - generic [ref=e74]: 进行中项目
+          - generic [ref=e75]:
+            - generic [ref=e76]: "8"
+            - generic [ref=e77]: 达人稿件
+          - generic [ref=e78]:
+            - generic [ref=e79]: "4"
+            - generic [ref=e80]: 待审稿件
+          - generic [ref=e81]:
+            - generic [ref=e82]: "2"
+            - generic [ref=e83]: 达人修改中
+          - generic [ref=e84]:
+            - generic [ref=e85]: "1"
+            - generic [ref=e86]: 已定稿
+        - generic [ref=e88] [cursor=pointer]:
+          - generic [ref=e89]:
+            - generic [ref=e90]: 植
+            - generic [ref=e91]:
+              - generic [ref=e92]: 植愈精华 · 618 达人种草
+              - generic [ref=e93]: 植愈 PURELY · 美妆护肤
+          - generic [ref=e96]:
+            - generic [ref=e97]: 4 待复核
+            - generic [ref=e98]: 2 修改中
+            - generic [ref=e99]: 1 定稿
+            - generic [ref=e100]: AI 洞察已生成
+          - generic [ref=e104]:
+            - generic [ref=e105]: 8 位达人
+            - generic [ref=e106]: 更新于 2026-09-07 14:35
